@@ -1,2 +1,2 @@
 # LeetCode-75-solution
-helo coders
+thnks daddy!
